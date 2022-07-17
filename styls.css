@@ -1,0 +1,23 @@
+.c {
+    position: relative;
+    text-align: left;
+    color: black;
+  }
+  
+ 
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    right: 67%;
+    transform: translate(-50%, -50%);
+    font-size: 90px;
+}
+.centered1 {
+  position: absolute;
+  top: 50%;
+  right: 67%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+}
+
